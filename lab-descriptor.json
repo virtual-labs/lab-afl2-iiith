@@ -13,14 +13,14 @@
     "experiments": [
   {
     "name": "Equivalence of PDA and CFG",
-    "short-name": "equivalence-pda-cfg",
+    "short-name": "pda-cfg-equivalence",
     "repo": "https://github.com/virtual-labs/exp-equivalence-pa-cfg-iiith",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Demonstration of Ambiguity with Context-Free Grammars",
-    "short-name": "ambiguity-cfg",
+    "short-name": "cfg-ambiguity",
     "repo": "https://github.com/virtual-labs/exp-demonstration-of-ambiguity-iiith",
     "tag": "v1.0.0",
     "deploy": true
@@ -34,21 +34,21 @@
   },
   {
     "name": "Acceptance by Deterministic Turing Machine",
-    "short-name": "deterministic-tm",
+    "short-name": "dtm-acceptance",
     "repo": "https://github.com/virtual-labs/exp-deterministic-turing-machine-iiith",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Acceptance by Non-deterministic Turing Machine",
-    "short-name": "non-deterministic-tm",
+    "short-name": "ndtm-acceptance",
     "repo": "https://github.com/virtual-labs/exp-non-deterministic-turing-machine-iiith",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Equivalence of 2-Stack PDA and DTM",
-    "short-name": "equivalence-2stack-pda-dtm",
+    "short-name": "2stack-pda-dtm-equivalence",
     "repo": "https://github.com/virtual-labs/exp-equivalence-pda-dtm-iiith",
     "tag": "v1.0.0",
     "deploy": true
